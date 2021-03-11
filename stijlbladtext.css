@@ -1,0 +1,15 @@
+body{
+    font-family: Roboto, sans-serif;  
+    color: #2E0E02;
+}
+#menubalk li{
+    color: #EBCBF4;
+    font-size: 1.1em;
+}
+#logo p{
+    font-size:5em;
+    color:#EBCBF4 ;
+    margin-top: 0;
+    margin: 0 5em 5em 5em;
+    filter: drop-shadow(3px 6px 8px rgba(0,0,0,0.69));
+}
